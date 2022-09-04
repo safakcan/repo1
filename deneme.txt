@@ -1,1 +1,1 @@
-"HELLOOOOWAWOAOA"
+bu da yeni bir cat > filename.txt yazdim
